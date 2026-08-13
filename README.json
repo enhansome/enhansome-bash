@@ -1,0 +1,1235 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Pure Bash Bible",
+          "description": "A collection of pure bash alternatives to external processes.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2023-11-28T03:26:23Z",
+            "owner": "dylanaraps",
+            "repo": "pure-bash-bible",
+            "stars": 41722
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bash-handbook",
+          "description": "A handbook for those who want to learn Bash without diving in too deeply.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-02-05T18:45:47Z",
+            "owner": "denysdovhan",
+            "repo": "bash-handbook",
+            "stars": 6081
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Safe ways to do things in bash",
+          "description": "How to do things safely in Bash.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-09T22:28:20Z",
+            "owner": "anordal",
+            "repo": "shellharden",
+            "stars": 4797
+          }
+        }
+      ],
+      "title": "Books and Resources"
+    },
+    {
+      "description": "Search, bookmarks, multiplexing, and other tools that make your terminal experience more productive.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "zoxide",
+          "description": "A better way to navigate your filesystem. Written in Rust, cross-shell, and much faster than other autojumpers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T18:53:37Z",
+            "owner": "ajeetdsouza",
+            "repo": "zoxide",
+            "stars": 38629
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ble.sh",
+          "description": "User-friendly and feature rich readline replacement, with syntax highlighting, better command completion, and improved multi-line editing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-11T21:18:40Z",
+            "owner": "akinomyoga",
+            "repo": "ble.sh",
+            "stars": 4605
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hstr",
+          "description": "Bash History Suggest Box.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-05-29T18:08:10Z",
+            "owner": "dvorka-oss",
+            "repo": "hstr",
+            "stars": 4451
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bashmarks",
+          "description": "Directory bookmarks for the shell.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-05T04:25:07Z",
+            "owner": "huyng",
+            "repo": "bashmarks",
+            "stars": 1968
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bashhub",
+          "description": "Bash history in the cloud. Indexed and searchable :cloud:.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-15T21:38:05Z",
+            "owner": "rcaloras",
+            "repo": "bashhub-client",
+            "stars": 1307
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "has",
+          "description": "helps you check presence of various command line tools and their versions on path.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-02-26T04:00:46Z",
+            "owner": "kdabir",
+            "repo": "has",
+            "stars": 818
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aliases",
+          "description": "Contextual, dynamic, organized aliases for the bash shell.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-10-28T02:46:08Z",
+            "owner": "sebglazebrook",
+            "repo": "aliases",
+            "stars": 622
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sshrc",
+          "description": "Bring your .bashrc, .vimrc, etc. with you when you SSH.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-01-27T11:47:39Z",
+            "owner": "cdown",
+            "repo": "sshrc",
+            "stars": 528
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "utility-bash-scripts",
+          "description": "Useful bash scripts to do automatable tasks with a single command.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2020-09-30T17:28:55Z",
+            "owner": "aviaryan",
+            "repo": "utility-bash-scripts",
+            "stars": 472
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "commacd",
+          "description": "A faster way to move around in Bash.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2019-11-07T04:25:33Z",
+            "owner": "shyiko",
+            "repo": "commacd",
+            "stars": 370
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "forkrun",
+          "description": "A pure-bash tool for running code in parallel. Similar in syntax and speed to , but with more features and native Bash function support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-25T16:44:06Z",
+            "owner": "jkool702",
+            "repo": "forkrun",
+            "stars": 360
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bashhub-server",
+          "description": "Privately hosted open source bashhub server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-03-30T01:30:00Z",
+            "owner": "nicksherron",
+            "repo": "bashhub-server",
+            "stars": 317
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bashmount",
+          "description": "Easily manage removable media.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2022-06-30T14:48:24Z",
+            "owner": "jamielinux",
+            "repo": "bashmount",
+            "stars": 290
+          }
+        }
+      ],
+      "title": "Command-Line Productivity"
+    },
+    {
+      "description": "Custom prompts, color themes, etc.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "oh-my-bash",
+          "description": "A delightful community-driven framework for managing your bash configuration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-01T07:13:22Z",
+            "owner": "ohmybash",
+            "repo": "oh-my-bash",
+            "stars": 7635
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bash-git-prompt",
+          "description": "An informative and fancy Bash prompt for Git users.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-04-10T16:26:04Z",
+            "owner": "magicmonty",
+            "repo": "bash-git-prompt",
+            "stars": 6933
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "liquidprompt",
+          "description": "A full-featured & carefully designed adaptive prompt for Bash & Zsh.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-13T03:04:14Z",
+            "owner": "liquidprompt",
+            "repo": "liquidprompt",
+            "stars": 4672
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "oh-my-git",
+          "description": "An opinionated git prompt for bash and zsh.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2022-06-30T09:34:39Z",
+            "owner": "arialdomartini",
+            "repo": "oh-my-git",
+            "stars": 3715
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LS_COLORS",
+          "description": "A collection of LS_COLORS definitions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-06-06T14:23:09Z",
+            "owner": "trapd00r",
+            "repo": "LS_COLORS",
+            "stars": 2274
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bash-sensible",
+          "description": "An attempt at saner Bash defaults.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-10-17T19:31:36Z",
+            "owner": "mrzool",
+            "repo": "bash-sensible",
+            "stars": 2123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bashstrap",
+          "description": "A quick way to spruce up macOS terminal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2019-05-22T22:01:57Z",
+            "owner": "barryclark",
+            "repo": "bashstrap",
+            "stars": 1556
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sexy-bash-prompt",
+          "description": "Bash prompt with colors, Git statuses, and Git branches.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-11-21T20:21:28Z",
+            "owner": "twolfson",
+            "repo": "sexy-bash-prompt",
+            "stars": 1155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bash-powerline",
+          "description": "Powerline-style Bash prompt in pure Bash script.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-07-06T04:20:33Z",
+            "owner": "riobard",
+            "repo": "bash-powerline",
+            "stars": 912
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "git-prompt",
+          "description": "Bash prompt with Git, SVN and HG modules.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-05-05T00:42:51Z",
+            "owner": "lvv",
+            "repo": "git-prompt",
+            "stars": 327
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "progress-bar.sh",
+          "description": "Simple & sexy progressbar for , give it a duration and it will do the rest.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-10-24T16:06:57Z",
+            "owner": "edouard-lopez",
+            "repo": "progress-bar.sh",
+            "stars": 251
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aphrodite-terminal-theme",
+          "description": "Minimalistic theme (prompt) for sexy terminals.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-08-04T10:54:37Z",
+            "owner": "win0err",
+            "repo": "aphrodite-terminal-theme",
+            "stars": 177
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gittify",
+          "description": "A colorful Bash prompt + customized Git aliases.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2022-04-02T15:08:00Z",
+            "owner": "momeni",
+            "repo": "gittify",
+            "stars": 80
+          }
+        }
+      ],
+      "title": "Customization"
+    },
+    {
+      "description": "Command-line development, version control, and deployment.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "bocker",
+          "description": "Docker implemented in 100 lines of bash.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2017-12-09T14:16:38Z",
+            "owner": "p8952",
+            "repo": "bocker",
+            "stars": 12662
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "git-sh",
+          "description": "A customized Bash environment suitable for Git work.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2023-05-31T16:23:52Z",
+            "owner": "rtomayko",
+            "repo": "git-sh",
+            "stars": 745
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mkdkr",
+          "description": "Make + Docker + Shell = CI Pipeline.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2021-05-27T00:40:23Z",
+            "owner": "rosineygp",
+            "repo": "mkdkr",
+            "stars": 382
+          }
+        }
+      ],
+      "title": "For Developers"
+    },
+    {
+      "description": "Self-hosted, lightweight servers and networking tools written in shell scripts.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Dropbox-Uploader",
+          "description": "Dropbox Uploader is a Bash script which can be used to upload, download, list or delete files from Dropbox.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-06-04T07:54:29Z",
+            "owner": "andreafabrizi",
+            "repo": "Dropbox-Uploader",
+            "stars": 6599
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bashttpd",
+          "description": "A web server written in Bash.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-24T14:17:10Z",
+            "owner": "avleen",
+            "repo": "bashttpd",
+            "stars": 1552
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xiringuito",
+          "description": "SSH-based VPN for poors.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2021-12-29T07:26:04Z",
+            "owner": "ivanilves",
+            "repo": "xiringuito",
+            "stars": 1158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bash-web-server",
+          "description": "A purely bash web server, no socat, netcat, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-02-29T19:18:54Z",
+            "owner": "dzove855",
+            "repo": "Bash-web-server",
+            "stars": 998
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bash-stack",
+          "description": "Modern web framework in bash.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-09-06T17:57:19Z",
+            "owner": "cgsdev0",
+            "repo": "bash-stack",
+            "stars": 898
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "balls",
+          "description": "Bash on Balls.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2016-07-29T15:48:23Z",
+            "owner": "jneen",
+            "repo": "balls",
+            "stars": 869
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sherver",
+          "description": "Pure Bash lightweight web server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-09T22:44:35Z",
+            "owner": "remileduc",
+            "repo": "sherver",
+            "stars": 351
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bashbro",
+          "description": "A Bash-based web file browser - allowing you to remotely browse, stream, view documents and save files via your web browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-10-11T00:33:38Z",
+            "owner": "victrixsoft",
+            "repo": "bashbro",
+            "stars": 223
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ngincat",
+          "description": "Tiny Bash HTTP server using netcat.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2014-07-18T04:07:18Z",
+            "owner": "jaburns",
+            "repo": "ngincat",
+            "stars": 183
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "httpd.sh",
+          "description": "A trivial web server in bash, using ctypes.sh.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2015-08-24T15:05:24Z",
+            "owner": "cemeyer",
+            "repo": "httpd.sh",
+            "stars": 123
+          }
+        }
+      ],
+      "title": "Downloading and Serving"
+    },
+    {
+      "description": "Command line-based applications or command line access to existing services.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "todo.sh",
+          "description": "A simple and extensible shell script for managing your todo.txt file.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-07T08:00:09Z",
+            "owner": "todotxt",
+            "repo": "todo.txt-cli",
+            "stars": 6155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bashblog",
+          "description": "A Bash script that handles blog posting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-09T14:09:35Z",
+            "owner": "cfenollosa",
+            "repo": "bashblog",
+            "stars": 1930
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pushbullet-bash",
+          "description": "Bash interface to the PushBullet API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-10-04T00:31:46Z",
+            "owner": "Red5d",
+            "repo": "pushbullet-bash",
+            "stars": 236
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cheapci",
+          "description": "A continuous integration framework implemented in bash.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2022-09-22T09:26:12Z",
+            "owner": "ianmiell",
+            "repo": "cheapci",
+            "stars": 190
+          }
+        }
+      ],
+      "title": "Applications"
+    },
+    {
+      "description": "All work and no play is a cruddy way to spend your day.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "bash2048",
+          "description": "Bash implementation of 2048 game.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-04-30T16:32:13Z",
+            "owner": "JosefZIla",
+            "repo": "bash2048",
+            "stars": 910
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "minesweeper",
+          "description": "Bash implementation of minesweeper.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2020-05-29T11:38:44Z",
+            "owner": "feherke",
+            "repo": "Bash-script",
+            "stars": 66
+          }
+        }
+      ],
+      "title": "Games"
+    },
+    {
+      "description": "Tools for managing multiple shell configurations.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "bash-it",
+          "description": "A community Bash framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-09T06:56:08Z",
+            "owner": "Bash-it",
+            "repo": "bash-it",
+            "stars": 15141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "homeshick",
+          "description": "Git dotfile synchronizer written in Bash.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-10T16:15:43Z",
+            "owner": "andsens",
+            "repo": "homeshick",
+            "stars": 2193
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bpkg",
+          "description": "A lightweight bash package manager.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-07-07T16:29:21Z",
+            "owner": "bpkg",
+            "repo": "bpkg",
+            "stars": 1973
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "basher",
+          "description": "A package manager for shell scripts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-11-18T15:30:04Z",
+            "owner": "basherpm",
+            "repo": "basher",
+            "stars": 1296
+          }
+        }
+      ],
+      "title": "Shell Package Management"
+    },
+    {
+      "description": "Tools for writing, improving, or organizing Bash or other shell scripts",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "shellcheck",
+          "description": "A static analysis tool for shell scripts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2026-08-04T08:32:46Z",
+            "owner": "koalaman",
+            "repo": "shellcheck",
+            "stars": 39860
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shfmt",
+          "description": "Format bash programs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T06:48:50Z",
+            "owner": "mvdan",
+            "repo": "sh",
+            "stars": 8973
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DevOps-Bash-tools",
+          "description": "750+ DevOps Shell Scripts and Advanced Bash environment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-05T21:31:06Z",
+            "owner": "HariSekhon",
+            "repo": "DevOps-Bash-tools",
+            "stars": 8374
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bats",
+          "description": "Bash Automated Testing System.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-26T21:15:40Z",
+            "owner": "bats-core",
+            "repo": "bats-core",
+            "stars": 6211
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bash Infinity",
+          "description": "A modern boilerplate / framework / standard library for bash.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-12-15T14:25:19Z",
+            "owner": "niieani",
+            "repo": "bash-oo-framework",
+            "stars": 5618
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shellharden",
+          "description": "The corrective bash syntax highlighter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-09T22:28:20Z",
+            "owner": "anordal",
+            "repo": "shellharden",
+            "stars": 4797
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bashly",
+          "description": "Bash command line framework and CLI generator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-07-09T15:51:10Z",
+            "owner": "bashly-framework",
+            "repo": "bashly",
+            "stars": 2433
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bash3boilerplate",
+          "description": "Templates to write better Bash scripts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-20T22:56:10Z",
+            "owner": "kvz",
+            "repo": "bash3boilerplate",
+            "stars": 2209
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shunit2",
+          "description": "A unit test framework for Bash scripts with a flavour of JUnit/PyUnit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-03-15T21:14:41Z",
+            "owner": "kward",
+            "repo": "shunit2",
+            "stars": 1736
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "argbash",
+          "description": "Bash argument parsing code generator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "M4",
+            "last_commit": "2025-07-17T21:41:04Z",
+            "owner": "matejak",
+            "repo": "argbash",
+            "stars": 1483
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "modernish",
+          "description": "Library with various features for shell scripting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-06T19:44:36Z",
+            "owner": "modernish",
+            "repo": "modernish",
+            "stars": 937
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ansi",
+          "description": "ANSI escape codes in pure bash - change text color, position the cursor, much more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2021-11-28T12:39:07Z",
+            "owner": "fidian",
+            "repo": "ansi",
+            "stars": 832
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bash_unit",
+          "description": "Bash unit testing enterprise edition framework for professionals.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-02-11T12:41:58Z",
+            "owner": "bash-unit",
+            "repo": "bash_unit",
+            "stars": 635
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bashful",
+          "description": "A collection of libraries to simplify writing Bash scripts.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2021-06-08T06:59:52Z",
+            "owner": "jmcantrell",
+            "repo": "bashful",
+            "stars": 622
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mo",
+          "description": "Mustache templates in pure bash.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-01-19T23:44:22Z",
+            "owner": "tests-always-included",
+            "repo": "mo",
+            "stars": 606
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "assert.sh",
+          "description": "Bash unit testing framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2022-01-21T07:52:50Z",
+            "owner": "lehmannro",
+            "repo": "assert.sh",
+            "stars": 490
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "json.bash",
+          "description": "Bash library and command-line tool that creates JSON.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-12-08T11:19:10Z",
+            "owner": "h4l",
+            "repo": "json.bash",
+            "stars": 460
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bashunit",
+          "description": "A simple testing library for bash scripts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-13T05:48:19Z",
+            "owner": "TypedDevs",
+            "repo": "bashunit",
+            "stars": 424
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lobash",
+          "description": "A modern, safe, powerful utility/library for Bash script development.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-09-14T20:04:24Z",
+            "owner": "adoyle-h",
+            "repo": "lobash",
+            "stars": 399
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "semver_bash",
+          "description": "Semantic Versioning in Bash.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-04-24T00:29:30Z",
+            "owner": "cloudflare",
+            "repo": "semver_bash",
+            "stars": 268
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bunit",
+          "description": "A unit testing framework for Bash scripts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2022-11-03T16:09:25Z",
+            "owner": "rafritts",
+            "repo": "bunit",
+            "stars": 202
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "timep",
+          "description": "A next-gen profiler and FlameGraph generator for bash code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-06-27T03:50:01Z",
+            "owner": "jkool702",
+            "repo": "timep",
+            "stars": 193
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bashmatic",
+          "description": "An easy to use DSL library for building BASH-based tooling & installers (900+ functions).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-06-23T21:01:01Z",
+            "owner": "kigster",
+            "repo": "bashmatic",
+            "stars": 183
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bash-modules",
+          "description": "A collection of modules for unofficial strict mode.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-08-27T10:53:24Z",
+            "owner": "vlisivka",
+            "repo": "bash-modules",
+            "stars": 151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "async-bash",
+          "description": "Implementation of async functions in bash.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2022-03-19T17:51:26Z",
+            "owner": "zombieleet",
+            "repo": "async-bash",
+            "stars": 146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bashify",
+          "description": "Few helper functions in bash (especially string manipulation functions).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2016-12-19T16:17:42Z",
+            "owner": "zombieleet",
+            "repo": "bashify",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bashmanager",
+          "description": "Mini bash framework for creating command line tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2016-02-27T19:08:47Z",
+            "owner": "lingtalfi",
+            "repo": "bashmanager",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bashing",
+          "description": "Smashing Bash into Pieces - Bash framework for creating command line tools.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2020-02-13T13:42:24Z",
+            "owner": "xsc",
+            "repo": "bashing",
+            "stars": 83
+          }
+        }
+      ],
+      "title": "Shell Script Development"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Bash Screensavers",
+          "description": "A collection of screensavers written entirely in bash.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-23T08:25:56Z",
+            "owner": "attogram",
+            "repo": "bash-screensavers",
+            "stars": 947
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pokeget",
+          "description": "Displays sprites of pokemon in the terminal.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2023-08-09T19:06:16Z",
+            "owner": "talwat",
+            "repo": "pokeget",
+            "stars": 55
+          }
+        }
+      ],
+      "title": "Just for fun"
+    },
+    {
+      "description": "Other amazingly awesome lists can be found in awesome-awesome and awesome-awesomeness.",
+      "items": [],
+      "title": "Other Awesome Lists"
+    },
+    {
+      "description": "Contributions welcome! Read the contribution guidelines first.",
+      "items": [],
+      "title": "Contribute"
+    },
+    {
+      "description": "To the extent possible under law, aloisdg has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T05:53:36.883Z",
+    "original_repository": "awesome-lists/awesome-bash",
+    "original_repository_sha": "8006230b3082b416f34495e957d86fee1a5c3654",
+    "enhanced_repository": "enhansome/enhansome-bash",
+    "enhanced_repository_description": null,
+    "title": "Awesome Bash with stars"
+  }
+}
