@@ -14,7 +14,7 @@
             "last_commit": "2023-11-28T03:26:23Z",
             "owner": "dylanaraps",
             "repo": "pure-bash-bible",
-            "stars": 41717
+            "stars": 41716
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-07-09T22:28:20Z",
             "owner": "anordal",
             "repo": "shellharden",
-            "stars": 4797
+            "stars": 4796
           }
         }
       ],
@@ -62,7 +62,7 @@
             "last_commit": "2026-08-10T18:53:37Z",
             "owner": "ajeetdsouza",
             "repo": "zoxide",
-            "stars": 38642
+            "stars": 38654
           }
         },
         {
@@ -76,7 +76,7 @@
             "last_commit": "2026-08-11T21:18:40Z",
             "owner": "akinomyoga",
             "repo": "ble.sh",
-            "stars": 4607
+            "stars": 4609
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2026-02-26T04:00:46Z",
             "owner": "kdabir",
             "repo": "has",
-            "stars": 818
+            "stars": 817
           }
         },
         {
@@ -250,7 +250,7 @@
             "last_commit": "2026-08-01T07:13:22Z",
             "owner": "ohmybash",
             "repo": "oh-my-bash",
-            "stars": 7636
+            "stars": 7639
           }
         },
         {
@@ -438,7 +438,7 @@
             "last_commit": "2017-12-09T14:16:38Z",
             "owner": "p8952",
             "repo": "bocker",
-            "stars": 12663
+            "stars": 12664
           }
         },
         {
@@ -567,10 +567,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-13T22:29:45Z",
+            "last_commit": "2026-08-14T22:57:23Z",
             "owner": "remileduc",
             "repo": "sherver",
-            "stars": 351
+            "stars": 352
           }
         },
         {
@@ -632,7 +632,7 @@
             "last_commit": "2026-08-13T13:30:23Z",
             "owner": "todotxt",
             "repo": "todo.txt-cli",
-            "stars": 6155
+            "stars": 6157
           }
         },
         {
@@ -728,7 +728,7 @@
             "last_commit": "2026-08-09T06:56:08Z",
             "owner": "Bash-it",
             "repo": "bash-it",
-            "stars": 15140
+            "stars": 15141
           }
         },
         {
@@ -790,7 +790,7 @@
             "last_commit": "2026-08-04T08:32:46Z",
             "owner": "koalaman",
             "repo": "shellcheck",
-            "stars": 39868
+            "stars": 39874
           }
         },
         {
@@ -804,7 +804,7 @@
             "last_commit": "2026-08-13T22:16:27Z",
             "owner": "mvdan",
             "repo": "sh",
-            "stars": 8975
+            "stars": 8979
           }
         },
         {
@@ -832,7 +832,7 @@
             "last_commit": "2026-07-26T21:15:40Z",
             "owner": "bats-core",
             "repo": "bats-core",
-            "stars": 6210
+            "stars": 6213
           }
         },
         {
@@ -860,7 +860,7 @@
             "last_commit": "2026-07-09T22:28:20Z",
             "owner": "anordal",
             "repo": "shellharden",
-            "stars": 4797
+            "stars": 4796
           }
         },
         {
@@ -1025,7 +1025,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-14T05:48:17Z",
+            "last_commit": "2026-08-15T04:46:36Z",
             "owner": "TypedDevs",
             "repo": "bashunit",
             "stars": 424
@@ -1188,7 +1188,7 @@
             "last_commit": "2026-07-23T08:25:56Z",
             "owner": "attogram",
             "repo": "bash-screensavers",
-            "stars": 947
+            "stars": 946
           }
         },
         {
@@ -1225,7 +1225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T05:50:40.748Z",
+    "last_updated": "2026-08-15T04:52:31.418Z",
     "original_repository": "awesome-lists/awesome-bash",
     "original_repository_sha": "8006230b3082b416f34495e957d86fee1a5c3654",
     "enhanced_repository": "enhansome/enhansome-bash",
