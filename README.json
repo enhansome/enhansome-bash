@@ -28,7 +28,7 @@
             "last_commit": "2024-02-05T18:45:47Z",
             "owner": "denysdovhan",
             "repo": "bash-handbook",
-            "stars": 6079
+            "stars": 6078
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-07-09T22:28:20Z",
             "owner": "anordal",
             "repo": "shellharden",
-            "stars": 4795
+            "stars": 4797
           }
         }
       ],
@@ -59,10 +59,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-10T18:53:37Z",
+            "last_commit": "2026-08-17T19:14:18Z",
             "owner": "ajeetdsouza",
             "repo": "zoxide",
-            "stars": 38684
+            "stars": 38694
           }
         },
         {
@@ -76,7 +76,7 @@
             "last_commit": "2026-08-11T21:18:40Z",
             "owner": "akinomyoga",
             "repo": "ble.sh",
-            "stars": 4618
+            "stars": 4623
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-05-29T18:08:10Z",
             "owner": "dvorka-oss",
             "repo": "hstr",
-            "stars": 4448
+            "stars": 4449
           }
         },
         {
@@ -250,7 +250,7 @@
             "last_commit": "2026-08-01T07:13:22Z",
             "owner": "ohmybash",
             "repo": "oh-my-bash",
-            "stars": 7646
+            "stars": 7647
           }
         },
         {
@@ -306,7 +306,7 @@
             "last_commit": "2025-06-06T14:23:09Z",
             "owner": "trapd00r",
             "repo": "LS_COLORS",
-            "stars": 2274
+            "stars": 2275
           }
         },
         {
@@ -728,7 +728,7 @@
             "last_commit": "2026-08-09T06:56:08Z",
             "owner": "Bash-it",
             "repo": "bash-it",
-            "stars": 15142
+            "stars": 15141
           }
         },
         {
@@ -756,7 +756,7 @@
             "last_commit": "2025-07-07T16:29:21Z",
             "owner": "bpkg",
             "repo": "bpkg",
-            "stars": 1973
+            "stars": 1974
           }
         },
         {
@@ -770,7 +770,7 @@
             "last_commit": "2025-11-18T15:30:04Z",
             "owner": "basherpm",
             "repo": "basher",
-            "stars": 1297
+            "stars": 1299
           }
         }
       ],
@@ -790,7 +790,7 @@
             "last_commit": "2026-08-04T08:32:46Z",
             "owner": "koalaman",
             "repo": "shellcheck",
-            "stars": 39882
+            "stars": 39887
           }
         },
         {
@@ -801,10 +801,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T22:16:27Z",
+            "last_commit": "2026-08-17T22:12:57Z",
             "owner": "mvdan",
             "repo": "sh",
-            "stars": 8985
+            "stars": 8986
           }
         },
         {
@@ -832,7 +832,7 @@
             "last_commit": "2026-07-26T21:15:40Z",
             "owner": "bats-core",
             "repo": "bats-core",
-            "stars": 6219
+            "stars": 6221
           }
         },
         {
@@ -860,7 +860,7 @@
             "last_commit": "2026-07-09T22:28:20Z",
             "owner": "anordal",
             "repo": "shellharden",
-            "stars": 4795
+            "stars": 4797
           }
         },
         {
@@ -1025,7 +1025,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-17T04:58:17Z",
+            "last_commit": "2026-08-18T04:50:16Z",
             "owner": "TypedDevs",
             "repo": "bashunit",
             "stars": 424
@@ -1225,7 +1225,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T05:03:54.805Z",
+    "last_updated": "2026-08-18T04:57:54.772Z",
     "original_repository": "awesome-lists/awesome-bash",
     "original_repository_sha": "8006230b3082b416f34495e957d86fee1a5c3654",
     "enhanced_repository": "enhansome/enhansome-bash",
