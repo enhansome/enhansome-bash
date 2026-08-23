@@ -63,10 +63,10 @@
             "archived": false,
             "id": 245166720,
             "language": "Rust",
-            "last_commit": "2026-08-22T00:52:13Z",
+            "last_commit": "2026-08-22T11:42:09Z",
             "owner": "ajeetdsouza",
             "repo": "zoxide",
-            "stars": 38771
+            "stars": 38782
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-18T20:15:30Z",
             "owner": "akinomyoga",
             "repo": "ble.sh",
-            "stars": 4635
+            "stars": 4636
           }
         },
         {
@@ -213,7 +213,7 @@
             "archived": false,
             "id": 583759096,
             "language": "Shell",
-            "last_commit": "2026-08-22T04:51:03Z",
+            "last_commit": "2026-08-22T20:19:41Z",
             "owner": "jkool702",
             "repo": "forkrun",
             "stars": 360
@@ -246,7 +246,7 @@
             "last_commit": "2022-06-30T14:48:24Z",
             "owner": "jamielinux",
             "repo": "bashmount",
-            "stars": 291
+            "stars": 290
           }
         }
       ],
@@ -267,7 +267,7 @@
             "last_commit": "2026-08-21T14:03:03Z",
             "owner": "ohmybash",
             "repo": "oh-my-bash",
-            "stars": 7654
+            "stars": 7657
           }
         },
         {
@@ -606,7 +606,7 @@
             "archived": false,
             "id": 192119451,
             "language": "Shell",
-            "last_commit": "2026-08-21T18:59:33Z",
+            "last_commit": "2026-08-22T19:58:40Z",
             "owner": "remileduc",
             "repo": "sherver",
             "stars": 352
@@ -843,7 +843,7 @@
             "last_commit": "2026-08-04T08:32:46Z",
             "owner": "koalaman",
             "repo": "shellcheck",
-            "stars": 39905
+            "stars": 39913
           }
         },
         {
@@ -855,10 +855,10 @@
             "archived": false,
             "id": 49766020,
             "language": "Go",
-            "last_commit": "2026-08-21T22:28:14Z",
+            "last_commit": "2026-08-22T21:59:12Z",
             "owner": "mvdan",
             "repo": "sh",
-            "stars": 8998
+            "stars": 8999
           }
         },
         {
@@ -873,7 +873,7 @@
             "last_commit": "2026-08-19T21:04:16Z",
             "owner": "HariSekhon",
             "repo": "DevOps-Bash-tools",
-            "stars": 8382
+            "stars": 8383
           }
         },
         {
@@ -930,10 +930,10 @@
             "archived": false,
             "id": 222777351,
             "language": "Ruby",
-            "last_commit": "2026-08-20T05:23:38Z",
+            "last_commit": "2026-08-22T15:11:24Z",
             "owner": "bashly-framework",
             "repo": "bashly",
-            "stars": 2435
+            "stars": 2442
           }
         },
         {
@@ -1008,7 +1008,7 @@
             "last_commit": "2021-11-28T12:39:07Z",
             "owner": "fidian",
             "repo": "ansi",
-            "stars": 835
+            "stars": 836
           }
         },
         {
@@ -1095,7 +1095,7 @@
             "archived": false,
             "id": 686916383,
             "language": "Shell",
-            "last_commit": "2026-08-22T04:48:06Z",
+            "last_commit": "2026-08-23T04:51:28Z",
             "owner": "TypedDevs",
             "repo": "bashunit",
             "stars": 424
@@ -1292,7 +1292,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T04:55:02.097Z",
+    "last_updated": "2026-08-23T04:57:42.653Z",
     "original_repository": "awesome-lists/awesome-bash",
     "original_repository_id": 51288857,
     "original_repository_sha": "8006230b3082b416f34495e957d86fee1a5c3654",

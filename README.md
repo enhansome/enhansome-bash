@@ -2,7 +2,7 @@
 
 > A curated list of delightful Bash scripts and resources.
 
-In addition to this list, you should read the list [awesome-shell](https://github.com/alebcay/awesome-shell) ⭐ 37,478 | 🐛 183 | 📅 2025-08-28. It is a curated list of awesome command-line frameworks, toolkits, guides and gizmos. You may also want to check [awesome-zsh](https://github.com/unixorn/awesome-zsh-plugins) ⭐ 17,955 | 🐛 8 | 🌐 Shell | 📅 2026-08-21 or [awesome-fish](https://github.com/bucaran/awesome-fish) ⭐ 5,054 | 🐛 16 | 📅 2026-01-25. If you are looking for more lists, check [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 498,702 | 🐛 105 | 📅 2026-08-21.
+In addition to this list, you should read the list [awesome-shell](https://github.com/alebcay/awesome-shell) ⭐ 37,483 | 🐛 183 | 📅 2025-08-28. It is a curated list of awesome command-line frameworks, toolkits, guides and gizmos. You may also want to check [awesome-zsh](https://github.com/unixorn/awesome-zsh-plugins) ⭐ 17,959 | 🐛 9 | 🌐 Shell | 📅 2026-08-21 or [awesome-fish](https://github.com/bucaran/awesome-fish) ⭐ 5,054 | 🐛 16 | 📅 2026-01-25. If you are looking for more lists, check [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 499,040 | 🐛 106 | 📅 2026-08-21.
 
 ## Contents <!-- omit in toc -->
 
@@ -48,8 +48,8 @@ In addition to this list, you should read the list [awesome-shell](https://githu
 
 *Search, bookmarks, multiplexing, and other tools that make your terminal experience more productive.*
 
-* [zoxide](https://github.com/ajeetdsouza/zoxide) ⭐ 38,771 | 🐛 137 | 🌐 Rust | 📅 2026-08-22 - A better way to navigate your filesystem. Written in Rust, cross-shell, and much faster than other autojumpers.
-* [ble.sh](https://github.com/akinomyoga/ble.sh) ⭐ 4,635 | 🐛 83 | 🌐 Shell | 📅 2026-08-18 - User-friendly and feature rich readline replacement, with syntax highlighting, better command completion, and improved multi-line editing.
+* [zoxide](https://github.com/ajeetdsouza/zoxide) ⭐ 38,782 | 🐛 137 | 🌐 Rust | 📅 2026-08-22 - A better way to navigate your filesystem. Written in Rust, cross-shell, and much faster than other autojumpers.
+* [ble.sh](https://github.com/akinomyoga/ble.sh) ⭐ 4,636 | 🐛 83 | 🌐 Shell | 📅 2026-08-18 - User-friendly and feature rich readline replacement, with syntax highlighting, better command completion, and improved multi-line editing.
 * [hstr](https://github.com/dvorka/hstr) ⭐ 4,451 | 🐛 185 | 🌐 C | 📅 2026-05-29 - Bash History Suggest Box.
 * [bashmarks](https://github.com/huyng/bashmarks) ⭐ 1,969 | 🐛 31 | 🌐 Shell | 📅 2026-07-05 - Directory bookmarks for the shell.
 * [bashhub](https://github.com/rcaloras/bashhub-client) ⭐ 1,305 | 🐛 26 | 🌐 Python | 📅 2026-04-15 - Bash history in the cloud. Indexed and searchable :cloud:.
@@ -60,14 +60,14 @@ In addition to this list, you should read the list [awesome-shell](https://githu
 * [commacd](https://github.com/shyiko/commacd) ⭐ 365 | 🐛 4 | 🌐 Shell | 📅 2019-11-07 - A faster way to move around in Bash.
 * [forkrun](https://github.com/jkool702/forkrun) ⭐ 360 | 🐛 0 | 🌐 Shell | 📅 2026-08-22 - A pure-bash tool for running code in parallel. Similar in syntax and speed to `xargs -P`, but with more features and native Bash function support.
 * [bashhub-server](https://github.com/nicksherron/bashhub-server) ⭐ 317 | 🐛 13 | 🌐 Go | 📅 2023-03-30 - Privately hosted open source bashhub server.
-* [bashmount](https://github.com/jamielinux/bashmount) ⭐ 291 | 🐛 11 | 🌐 Shell | 📅 2022-06-30 - Easily manage removable media.
+* [bashmount](https://github.com/jamielinux/bashmount) ⭐ 290 | 🐛 11 | 🌐 Shell | 📅 2022-06-30 - Easily manage removable media.
 
 ## Customization
 
 *Custom prompts, color themes, etc.*
 
-* [oh-my-bash](https://github.com/ohmybash/oh-my-bash) ⭐ 7,654 | 🐛 170 | 🌐 Shell | 📅 2026-08-21 - A delightful community-driven framework for managing your bash configuration.
-* [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) ⭐ 6,934 | 🐛 34 | 🌐 Shell | 📅 2026-04-10 - An informative and fancy Bash prompt for Git users.
+* [oh-my-bash](https://github.com/ohmybash/oh-my-bash) ⭐ 7,657 | 🐛 170 | 🌐 Shell | 📅 2026-08-21 - A delightful community-driven framework for managing your bash configuration.
+* [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) ⭐ 6,934 | 🐛 35 | 🌐 Shell | 📅 2026-04-10 - An informative and fancy Bash prompt for Git users.
 * [liquidprompt](https://github.com/nojhan/liquidprompt) ⭐ 4,673 | 🐛 30 | 🌐 Shell | 📅 2026-08-13 - A full-featured & carefully designed adaptive prompt for Bash & Zsh.
 * [oh-my-git](https://github.com/arialdomartini/oh-my-git) ⭐ 3,716 | 🐛 56 | 🌐 Shell | 📅 2022-06-30 - An opinionated git prompt for bash and zsh.
 * [LS\_COLORS](https://github.com/trapd00r/LS_COLORS) ⭐ 2,274 | 🐛 8 | 🌐 Shell | 📅 2025-06-06 - A collection of LS\_COLORS definitions.
@@ -98,7 +98,7 @@ In addition to this list, you should read the list [awesome-shell](https://githu
 * [Bash-web-server](https://github.com/dzove855/Bash-web-server) ⭐ 999 | 🐛 5 | 🌐 Shell | 📅 2024-02-29 - A purely bash web server, no socat, netcat, etc.
 * [bash-stack](https://github.com/cgsdev0/bash-stack) ⭐ 901 | 🐛 9 | 🌐 Shell | 📅 2025-09-06 - Modern web framework in bash.
 * [balls](https://github.com/jneen/balls) ⭐ 869 | 🐛 5 | 🌐 Shell | 📅 2016-07-29 - Bash on Balls.
-* [sherver](https://github.com/remileduc/sherver) ⭐ 352 | 🐛 2 | 🌐 Shell | 📅 2026-08-21 - Pure Bash lightweight web server.
+* [sherver](https://github.com/remileduc/sherver) ⭐ 352 | 🐛 1 | 🌐 Shell | 📅 2026-08-22 - Pure Bash lightweight web server.
 * [bashbro](https://github.com/victrixsoft/bashbro/) ⭐ 223 | 🐛 1 | 🌐 Shell | 📅 2024-10-11 - A Bash-based web file browser - allowing you to remotely browse, stream, view documents and save files via your web browser.
 * [ngincat](https://github.com/jaburns/ngincat) ⭐ 183 | 🐛 0 | 🌐 Shell | 📅 2014-07-18 - Tiny Bash HTTP server using netcat.
 * [httpd.sh](https://github.com/cemeyer/httpd.sh) ⭐ 123 | 🐛 0 | 🌐 Shell | 📅 2015-08-24 - A trivial web server in bash, using ctypes.sh.
@@ -138,24 +138,24 @@ In addition to this list, you should read the list [awesome-shell](https://githu
 
 *Tools for writing, improving, or organizing Bash or other shell scripts*
 
-* [shellcheck](https://github.com/koalaman/shellcheck) ⭐ 39,905 | 🐛 1,141 | 🌐 Haskell | 📅 2026-08-04 - A static analysis tool for shell scripts.
-* [shfmt](https://github.com/mvdan/sh) ⭐ 8,998 | 🐛 97 | 🌐 Go | 📅 2026-08-21 - Format bash programs.
-* [DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) ⭐ 8,382 | 🐛 8 | 🌐 Shell | 📅 2026-08-19 - 750+ DevOps Shell Scripts and Advanced Bash environment.
+* [shellcheck](https://github.com/koalaman/shellcheck) ⭐ 39,913 | 🐛 1,140 | 🌐 Haskell | 📅 2026-08-04 - A static analysis tool for shell scripts.
+* [shfmt](https://github.com/mvdan/sh) ⭐ 8,999 | 🐛 96 | 🌐 Go | 📅 2026-08-22 - Format bash programs.
+* [DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) ⭐ 8,383 | 🐛 8 | 🌐 Shell | 📅 2026-08-19 - 750+ DevOps Shell Scripts and Advanced Bash environment.
 * [bats](https://github.com/bats-core/bats-core) ⭐ 6,226 | 🐛 129 | 🌐 Shell | 📅 2026-07-26 - Bash Automated Testing System.
 * [Bash Infinity](https://github.com/niieani/bash-oo-framework) ⭐ 5,616 | 🐛 36 | 🌐 Shell | 📅 2023-12-15 - A modern boilerplate / framework / standard library for bash.
 * [shellharden](https://github.com/anordal/shellharden) ⭐ 4,798 | 🐛 10 | 🌐 Rust | 📅 2026-07-09 - The corrective bash syntax highlighter.
-* [bashly](https://github.com/DannyBen/bashly) ⭐ 2,435 | 🐛 1 | 🌐 Ruby | 📅 2026-08-20 - Bash command line framework and CLI generator.
+* [bashly](https://github.com/DannyBen/bashly) ⭐ 2,442 | 🐛 3 | 🌐 Ruby | 📅 2026-08-22 - Bash command line framework and CLI generator.
 * [bash3boilerplate](https://github.com/kvz/bash3boilerplate) ⭐ 2,212 | 🐛 17 | 🌐 Shell | 📅 2026-07-20 - Templates to write better Bash scripts.
 * [shunit2](https://github.com/kward/shunit2) ⭐ 1,736 | 🐛 46 | 🌐 Shell | 📅 2026-03-15 - A unit test framework for Bash scripts with a flavour of JUnit/PyUnit.
 * [argbash](https://github.com/matejak/argbash) ⭐ 1,483 | 🐛 33 | 🌐 M4 | 📅 2025-07-17 - Bash argument parsing code generator.
 * [modernish](https://github.com/modernish/modernish) ⭐ 937 | 🐛 8 | 🌐 Shell | 📅 2026-08-06 - Library with various features for shell scripting.
-* [ansi](https://github.com/fidian/ansi) ⭐ 835 | 🐛 2 | 🌐 Shell | 📅 2021-11-28 - ANSI escape codes in pure bash - change text color, position the cursor, much more.
+* [ansi](https://github.com/fidian/ansi) ⭐ 836 | 🐛 2 | 🌐 Shell | 📅 2021-11-28 - ANSI escape codes in pure bash - change text color, position the cursor, much more.
 * [bash\_unit](https://github.com/pgrange/bash_unit) ⭐ 635 | 🐛 13 | 🌐 Shell | 📅 2026-02-11 -  Bash unit testing enterprise edition framework for professionals.
 * [bashful](https://github.com/jmcantrell/bashful) ⚠️ Archived - A collection of libraries to simplify writing Bash scripts.
 * [mo](https://github.com/tests-always-included/mo) ⭐ 606 | 🐛 11 | 🌐 Shell | 📅 2026-01-19 - Mustache templates in pure bash.
 * [assert.sh](https://github.com/lehmannro/assert.sh) ⭐ 490 | 🐛 17 | 🌐 Shell | 📅 2022-01-21 - Bash unit testing framework.
 * [json.bash](https://github.com/h4l/json.bash) ⭐ 461 | 🐛 1 | 🌐 Shell | 📅 2024-12-08 - Bash library and command-line tool that creates JSON.
-* [bashunit](https://github.com/TypedDevs/bashunit) ⭐ 424 | 🐛 0 | 🌐 Shell | 📅 2026-08-22 - A simple testing library for bash scripts.
+* [bashunit](https://github.com/TypedDevs/bashunit) ⭐ 424 | 🐛 0 | 🌐 Shell | 📅 2026-08-23 - A simple testing library for bash scripts.
 * [lobash](https://github.com/adoyle-h/lobash) ⭐ 399 | 🐛 0 | 🌐 Shell | 📅 2024-09-14 - A modern, safe, powerful utility/library for Bash script development.
 * [semver\_bash](https://github.com/cloudflare/semver_bash) ⭐ 268 | 🐛 13 | 🌐 Shell | 📅 2026-04-24 - Semantic Versioning in Bash.
 * [bunit](https://github.com/rafritts/bunit) ⭐ 202 | 🐛 1 | 🌐 Shell | 📅 2022-11-03 - A unit testing framework for Bash scripts.
@@ -182,7 +182,7 @@ In addition to this list, you should read the list [awesome-shell](https://githu
 
 ## Other Awesome Lists
 
-Other amazingly awesome lists can be found in [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,200 | 🐛 25 | 📅 2024-07-31 and [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,617 | 🐛 60 | 🌐 Ruby | 📅 2024-06-02.
+Other amazingly awesome lists can be found in [awesome-awesome](https://github.com/emijrp/awesome-awesome) ⭐ 3,201 | 🐛 25 | 📅 2024-07-31 and [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,619 | 🐛 61 | 🌐 Ruby | 📅 2024-06-02.
 
 ## Contribute
 
@@ -196,4 +196,4 @@ To the extent possible under law, aloisdg has waived all copyright and related o
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
