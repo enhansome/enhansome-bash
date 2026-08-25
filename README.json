@@ -213,7 +213,7 @@
             "archived": false,
             "id": 583759096,
             "language": "Shell",
-            "last_commit": "2026-08-25T04:14:45Z",
+            "last_commit": "2026-08-25T05:44:43Z",
             "owner": "jkool702",
             "repo": "forkrun",
             "stars": 360
@@ -1292,7 +1292,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T04:59:36.572Z",
+    "last_updated": "2026-08-25T05:49:04.658Z",
     "original_repository": "awesome-lists/awesome-bash",
     "original_repository_id": 51288857,
     "original_repository_sha": "8006230b3082b416f34495e957d86fee1a5c3654",
