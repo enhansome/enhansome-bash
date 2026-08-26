@@ -15,7 +15,7 @@
             "last_commit": "2023-11-28T03:26:23Z",
             "owner": "dylanaraps",
             "repo": "pure-bash-bible",
-            "stars": 41718
+            "stars": 41721
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2026-08-24T18:44:27Z",
             "owner": "ajeetdsouza",
             "repo": "zoxide",
-            "stars": 38819
+            "stars": 38847
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-18T20:15:30Z",
             "owner": "akinomyoga",
             "repo": "ble.sh",
-            "stars": 4645
+            "stars": 4647
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2020-09-30T17:28:55Z",
             "owner": "aviaryan",
             "repo": "utility-bash-scripts",
-            "stars": 472
+            "stars": 473
           }
         },
         {
@@ -213,7 +213,7 @@
             "archived": false,
             "id": 583759096,
             "language": "Shell",
-            "last_commit": "2026-08-25T05:44:43Z",
+            "last_commit": "2026-08-26T02:25:05Z",
             "owner": "jkool702",
             "repo": "forkrun",
             "stars": 360
@@ -267,7 +267,7 @@
             "last_commit": "2026-08-21T14:03:03Z",
             "owner": "ohmybash",
             "repo": "oh-my-bash",
-            "stars": 7661
+            "stars": 7663
           }
         },
         {
@@ -282,7 +282,7 @@
             "last_commit": "2026-04-10T16:26:04Z",
             "owner": "magicmonty",
             "repo": "bash-git-prompt",
-            "stars": 6936
+            "stars": 6935
           }
         },
         {
@@ -297,7 +297,7 @@
             "last_commit": "2026-08-23T15:30:56Z",
             "owner": "liquidprompt",
             "repo": "liquidprompt",
-            "stars": 4674
+            "stars": 4675
           }
         },
         {
@@ -468,7 +468,7 @@
             "last_commit": "2017-12-09T14:16:38Z",
             "owner": "p8952",
             "repo": "bocker",
-            "stars": 12666
+            "stars": 12667
           }
         },
         {
@@ -672,10 +672,10 @@
             "archived": false,
             "id": 144137,
             "language": "Shell",
-            "last_commit": "2026-08-24T17:25:21Z",
+            "last_commit": "2026-08-25T08:35:28Z",
             "owner": "todotxt",
             "repo": "todo.txt-cli",
-            "stars": 6159
+            "stars": 6160
           }
         },
         {
@@ -777,7 +777,7 @@
             "last_commit": "2026-08-09T06:56:08Z",
             "owner": "Bash-it",
             "repo": "bash-it",
-            "stars": 15146
+            "stars": 15147
           }
         },
         {
@@ -843,7 +843,7 @@
             "last_commit": "2026-08-04T08:32:46Z",
             "owner": "koalaman",
             "repo": "shellcheck",
-            "stars": 39919
+            "stars": 39928
           }
         },
         {
@@ -858,7 +858,7 @@
             "last_commit": "2026-08-23T23:27:47Z",
             "owner": "mvdan",
             "repo": "sh",
-            "stars": 9007
+            "stars": 9008
           }
         },
         {
@@ -873,7 +873,7 @@
             "last_commit": "2026-08-24T03:39:09Z",
             "owner": "HariSekhon",
             "repo": "DevOps-Bash-tools",
-            "stars": 8384
+            "stars": 8386
           }
         },
         {
@@ -888,7 +888,7 @@
             "last_commit": "2026-07-26T21:15:40Z",
             "owner": "bats-core",
             "repo": "bats-core",
-            "stars": 6231
+            "stars": 6232
           }
         },
         {
@@ -1095,7 +1095,7 @@
             "archived": false,
             "id": 686916383,
             "language": "Shell",
-            "last_commit": "2026-08-25T04:52:39Z",
+            "last_commit": "2026-08-26T04:54:35Z",
             "owner": "TypedDevs",
             "repo": "bashunit",
             "stars": 424
@@ -1292,7 +1292,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:49:04.658Z",
+    "last_updated": "2026-08-26T05:00:58.789Z",
     "original_repository": "awesome-lists/awesome-bash",
     "original_repository_id": 51288857,
     "original_repository_sha": "8006230b3082b416f34495e957d86fee1a5c3654",
