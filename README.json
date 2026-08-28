@@ -16,7 +16,8 @@
             "owner": "dylanaraps",
             "repo": "pure-bash-bible",
             "stars": 41723
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "denysdovhan",
             "repo": "bash-handbook",
             "stars": 6077
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "anordal",
             "repo": "shellharden",
             "stars": 4799
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         }
       ],
       "title": "Books and Resources"
@@ -66,8 +69,9 @@
             "last_commit": "2026-08-24T18:44:27Z",
             "owner": "ajeetdsouza",
             "repo": "zoxide",
-            "stars": 38935
-          }
+            "stars": 38986
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -81,8 +85,9 @@
             "last_commit": "2026-08-18T20:15:30Z",
             "owner": "akinomyoga",
             "repo": "ble.sh",
-            "stars": 4650
-          }
+            "stars": 4653
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -93,11 +98,12 @@
             "archived": false,
             "id": 14877272,
             "language": "C",
-            "last_commit": "2026-08-26T15:28:14Z",
+            "last_commit": "2026-08-28T06:41:27Z",
             "owner": "dvorka",
             "repo": "hstr",
-            "stars": 4455
-          }
+            "stars": 4454
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "huyng",
             "repo": "bashmarks",
             "stars": 1968
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -123,11 +130,12 @@
             "archived": false,
             "id": 12858849,
             "language": "Python",
-            "last_commit": "2026-04-15T21:38:05Z",
+            "last_commit": "2026-08-28T00:35:08Z",
             "owner": "rcaloras",
             "repo": "bashhub-client",
             "stars": 1305
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "kdabir",
             "repo": "has",
             "stars": 818
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "sebglazebrook",
             "repo": "aliases",
             "stars": 624
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "cdown",
             "repo": "sshrc",
             "stars": 528
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "aviaryan",
             "repo": "utility-bash-scripts",
             "stars": 473
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "shyiko",
             "repo": "commacd",
             "stars": 365
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -213,11 +226,12 @@
             "archived": false,
             "id": 583759096,
             "language": "Shell",
-            "last_commit": "2026-08-27T04:48:12Z",
+            "last_commit": "2026-08-27T18:47:47Z",
             "owner": "jkool702",
             "repo": "forkrun",
             "stars": 360
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "nicksherron",
             "repo": "bashhub-server",
             "stars": 317
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "jamielinux",
             "repo": "bashmount",
             "stars": 290
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         }
       ],
       "title": "Command-Line Productivity"
@@ -268,7 +284,8 @@
             "owner": "ohmybash",
             "repo": "oh-my-bash",
             "stars": 7666
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -282,8 +299,9 @@
             "last_commit": "2026-04-10T16:26:04Z",
             "owner": "magicmonty",
             "repo": "bash-git-prompt",
-            "stars": 6934
-          }
+            "stars": 6936
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -298,7 +316,8 @@
             "owner": "liquidprompt",
             "repo": "liquidprompt",
             "stars": 4675
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -313,7 +332,8 @@
             "owner": "arialdomartini",
             "repo": "oh-my-git",
             "stars": 3715
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -328,7 +348,8 @@
             "owner": "trapd00r",
             "repo": "LS_COLORS",
             "stars": 2275
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -343,7 +364,8 @@
             "owner": "mrzool",
             "repo": "bash-sensible",
             "stars": 2123
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -358,7 +380,8 @@
             "owner": "barryclark",
             "repo": "bashstrap",
             "stars": 1556
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -372,8 +395,9 @@
             "last_commit": "2025-11-21T20:21:28Z",
             "owner": "twolfson",
             "repo": "sexy-bash-prompt",
-            "stars": 1157
-          }
+            "stars": 1156
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -388,7 +412,8 @@
             "owner": "riobard",
             "repo": "bash-powerline",
             "stars": 911
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -403,7 +428,8 @@
             "owner": "lvv",
             "repo": "git-prompt",
             "stars": 327
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -418,7 +444,8 @@
             "owner": "edouard-lopez",
             "repo": "progress-bar.sh",
             "stars": 251
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -433,7 +460,8 @@
             "owner": "win0err",
             "repo": "aphrodite-terminal-theme",
             "stars": 176
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -448,7 +476,8 @@
             "owner": "momeni",
             "repo": "gittify",
             "stars": 80
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         }
       ],
       "title": "Customization"
@@ -468,8 +497,9 @@
             "last_commit": "2017-12-09T14:16:38Z",
             "owner": "p8952",
             "repo": "bocker",
-            "stars": 12671
-          }
+            "stars": 12672
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -484,7 +514,8 @@
             "owner": "rtomayko",
             "repo": "git-sh",
             "stars": 744
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -499,7 +530,8 @@
             "owner": "rosineygp",
             "repo": "mkdkr",
             "stars": 382
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         }
       ],
       "title": "For Developers"
@@ -520,7 +552,8 @@
             "owner": "andreafabrizi",
             "repo": "Dropbox-Uploader",
             "stars": 6599
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -535,7 +568,8 @@
             "owner": "avleen",
             "repo": "bashttpd",
             "stars": 1553
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -550,7 +584,8 @@
             "owner": "ivanilves",
             "repo": "xiringuito",
             "stars": 1160
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -565,7 +600,8 @@
             "owner": "dzove855",
             "repo": "Bash-web-server",
             "stars": 999
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -579,8 +615,9 @@
             "last_commit": "2025-09-06T17:57:19Z",
             "owner": "cgsdev0",
             "repo": "bash-stack",
-            "stars": 902
-          }
+            "stars": 903
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -595,7 +632,8 @@
             "owner": "jneen",
             "repo": "balls",
             "stars": 869
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -610,7 +648,8 @@
             "owner": "remileduc",
             "repo": "sherver",
             "stars": 352
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -625,7 +664,8 @@
             "owner": "victrixsoft",
             "repo": "bashbro",
             "stars": 223
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -640,7 +680,8 @@
             "owner": "jaburns",
             "repo": "ngincat",
             "stars": 183
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -655,7 +696,8 @@
             "owner": "cemeyer",
             "repo": "httpd.sh",
             "stars": 123
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         }
       ],
       "title": "Downloading and Serving"
@@ -675,8 +717,9 @@
             "last_commit": "2026-08-25T08:35:28Z",
             "owner": "todotxt",
             "repo": "todo.txt-cli",
-            "stars": 6163
-          }
+            "stars": 6165
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -691,7 +734,8 @@
             "owner": "cfenollosa",
             "repo": "bashblog",
             "stars": 1928
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -706,7 +750,8 @@
             "owner": "Red5d",
             "repo": "pushbullet-bash",
             "stars": 236
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -721,7 +766,8 @@
             "owner": "ianmiell",
             "repo": "cheapci",
             "stars": 190
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         }
       ],
       "title": "Applications"
@@ -742,7 +788,8 @@
             "owner": "JosefZIla",
             "repo": "bash2048",
             "stars": 910
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -757,7 +804,8 @@
             "owner": "feherke",
             "repo": "Bash-script",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         }
       ],
       "title": "Games"
@@ -778,7 +826,8 @@
             "owner": "Bash-it",
             "repo": "bash-it",
             "stars": 15150
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -789,11 +838,12 @@
             "archived": false,
             "id": 3998883,
             "language": "Shell",
-            "last_commit": "2026-07-10T16:15:43Z",
+            "last_commit": "2026-08-28T08:49:20Z",
             "owner": "andsens",
             "repo": "homeshick",
             "stars": 2193
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -808,7 +858,8 @@
             "owner": "bpkg",
             "repo": "bpkg",
             "stars": 1973
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -823,7 +874,8 @@
             "owner": "basherpm",
             "repo": "basher",
             "stars": 1301
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         }
       ],
       "title": "Shell Package Management"
@@ -843,8 +895,9 @@
             "last_commit": "2026-08-04T08:32:46Z",
             "owner": "koalaman",
             "repo": "shellcheck",
-            "stars": 39944
-          }
+            "stars": 39949
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -858,8 +911,9 @@
             "last_commit": "2026-08-23T23:27:47Z",
             "owner": "mvdan",
             "repo": "sh",
-            "stars": 9013
-          }
+            "stars": 9016
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -874,7 +928,8 @@
             "owner": "HariSekhon",
             "repo": "DevOps-Bash-tools",
             "stars": 8388
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -888,8 +943,9 @@
             "last_commit": "2026-07-26T21:15:40Z",
             "owner": "bats-core",
             "repo": "bats-core",
-            "stars": 6234
-          }
+            "stars": 6236
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -904,7 +960,8 @@
             "owner": "niieani",
             "repo": "bash-oo-framework",
             "stars": 5617
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -919,7 +976,8 @@
             "owner": "anordal",
             "repo": "shellharden",
             "stars": 4799
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -934,7 +992,8 @@
             "owner": "bashly-framework",
             "repo": "bashly",
             "stars": 2448
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -949,7 +1008,8 @@
             "owner": "kvz",
             "repo": "bash3boilerplate",
             "stars": 2212
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -964,7 +1024,8 @@
             "owner": "kward",
             "repo": "shunit2",
             "stars": 1737
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -979,7 +1040,8 @@
             "owner": "matejak",
             "repo": "argbash",
             "stars": 1483
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -994,7 +1056,8 @@
             "owner": "modernish",
             "repo": "modernish",
             "stars": 937
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -1009,7 +1072,8 @@
             "owner": "fidian",
             "repo": "ansi",
             "stars": 838
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -1024,7 +1088,8 @@
             "owner": "bash-unit",
             "repo": "bash_unit",
             "stars": 635
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -1039,7 +1104,8 @@
             "owner": "jmcantrell",
             "repo": "bashful",
             "stars": 622
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -1054,7 +1120,8 @@
             "owner": "tests-always-included",
             "repo": "mo",
             "stars": 606
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -1069,7 +1136,8 @@
             "owner": "lehmannro",
             "repo": "assert.sh",
             "stars": 491
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -1084,7 +1152,8 @@
             "owner": "h4l",
             "repo": "json.bash",
             "stars": 462
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -1095,11 +1164,12 @@
             "archived": false,
             "id": 686916383,
             "language": "Shell",
-            "last_commit": "2026-08-27T15:14:12Z",
+            "last_commit": "2026-08-28T16:37:07Z",
             "owner": "TypedDevs",
             "repo": "bashunit",
             "stars": 424
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -1114,7 +1184,8 @@
             "owner": "adoyle-h",
             "repo": "lobash",
             "stars": 399
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -1129,7 +1200,8 @@
             "owner": "cloudflare",
             "repo": "semver_bash",
             "stars": 268
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -1144,7 +1216,8 @@
             "owner": "rafritts",
             "repo": "bunit",
             "stars": 202
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -1159,7 +1232,8 @@
             "owner": "jkool702",
             "repo": "timep",
             "stars": 193
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -1174,7 +1248,8 @@
             "owner": "kigster",
             "repo": "bashmatic",
             "stars": 183
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -1189,7 +1264,8 @@
             "owner": "vlisivka",
             "repo": "bash-modules",
             "stars": 151
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -1204,7 +1280,8 @@
             "owner": "zombieleet",
             "repo": "async-bash",
             "stars": 146
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -1219,7 +1296,8 @@
             "owner": "zombieleet",
             "repo": "bashify",
             "stars": 106
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -1234,7 +1312,8 @@
             "owner": "lingtalfi",
             "repo": "bashmanager",
             "stars": 102
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -1249,7 +1328,8 @@
             "owner": "xsc",
             "repo": "bashing",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         }
       ],
       "title": "Shell Script Development"
@@ -1270,7 +1350,8 @@
             "owner": "attogram",
             "repo": "bash-screensavers",
             "stars": 948
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         },
         {
           "node_type": "item",
@@ -1285,14 +1366,15 @@
             "owner": "talwat",
             "repo": "pokeget",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
         }
       ],
       "title": "Just for fun"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T15:21:04.042Z",
+    "last_updated": "2026-08-28T16:45:55.999Z",
     "original_repository_info": {
       "archived": false,
       "id": 51288857,
@@ -1300,7 +1382,7 @@
       "last_commit": "2026-05-21T14:27:17Z",
       "owner": "awesome-lists",
       "repo": "awesome-bash",
-      "stars": 10049
+      "stars": 10053
     },
     "original_repository_sha": "8006230b3082b416f34495e957d86fee1a5c3654",
     "enhanced_repository": "enhansome/enhansome-bash",
