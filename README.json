@@ -114,7 +114,7 @@
             "open_issues": 139,
             "owner": "ajeetdsouza",
             "repo": "zoxide",
-            "stars": 38999,
+            "stars": 39007,
             "topics": [
               "autojump",
               "bash",
@@ -483,7 +483,7 @@
             "open_issues": 162,
             "owner": "ohmybash",
             "repo": "oh-my-bash",
-            "stars": 7666,
+            "stars": 7667,
             "topics": [
               "bash-configuration",
               "oh-my-bash",
@@ -1401,7 +1401,7 @@
             "open_issues": 1138,
             "owner": "koalaman",
             "repo": "shellcheck",
-            "stars": 39953,
+            "stars": 39954,
             "topics": [
               "bash",
               "developer-tools",
@@ -1426,10 +1426,10 @@
             "language": "Go",
             "license": "BSD-3-Clause",
             "last_commit": "2026-08-28T17:20:22Z",
-            "open_issues": 97,
+            "open_issues": 99,
             "owner": "mvdan",
             "repo": "sh",
-            "stars": 9020,
+            "stars": 9022,
             "topics": [
               "bash",
               "beautify",
@@ -1462,7 +1462,7 @@
             "open_issues": 8,
             "owner": "HariSekhon",
             "repo": "DevOps-Bash-tools",
-            "stars": 8390,
+            "stars": 8391,
             "topics": [
               "api",
               "aws",
@@ -1867,7 +1867,7 @@
             "id": 686916383,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-08-28T16:37:07Z",
+            "last_commit": "2026-08-29T11:04:16Z",
             "open_issues": 0,
             "owner": "TypedDevs",
             "repo": "bashunit",
@@ -2198,7 +2198,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:12:49.876Z",
+    "last_updated": "2026-08-29T11:12:08.603Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful Bash scripts and resources.",
@@ -2210,7 +2210,7 @@
       "open_issues": 9,
       "owner": "awesome-lists",
       "repo": "awesome-bash",
-      "stars": 10054,
+      "stars": 10055,
       "topics": [
         "awesome",
         "awesome-list",
