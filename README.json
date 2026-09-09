@@ -19,7 +19,7 @@
             "open_issues": 62,
             "owner": "dylanaraps",
             "repo": "pure-bash-bible",
-            "stars": 41722,
+            "stars": 41723,
             "topics": [
               "bash",
               "bible",
@@ -53,7 +53,7 @@
             "open_issues": 30,
             "owner": "denysdovhan",
             "repo": "bash-handbook",
-            "stars": 6082,
+            "stars": 6083,
             "topics": [
               "bash",
               "book",
@@ -114,7 +114,7 @@
             "open_issues": 144,
             "owner": "ajeetdsouza",
             "repo": "zoxide",
-            "stars": 39248,
+            "stars": 39302,
             "topics": [
               "autojump",
               "bash",
@@ -152,11 +152,11 @@
             "id": 40722355,
             "language": "Shell",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-07T04:51:55Z",
-            "open_issues": 85,
+            "last_commit": "2026-09-08T09:40:14Z",
+            "open_issues": 84,
             "owner": "akinomyoga",
             "repo": "ble.sh",
-            "stars": 4692,
+            "stars": 4706,
             "topics": [
               "auto-complete",
               "bash",
@@ -265,7 +265,7 @@
             "open_issues": 14,
             "owner": "kdabir",
             "repo": "has",
-            "stars": 819,
+            "stars": 820,
             "topics": [
               "bash",
               "check",
@@ -483,7 +483,7 @@
             "open_issues": 160,
             "owner": "ohmybash",
             "repo": "oh-my-bash",
-            "stars": 7687,
+            "stars": 7690,
             "topics": [
               "bash-configuration",
               "oh-my-bash",
@@ -584,7 +584,7 @@
             "open_issues": 8,
             "owner": "trapd00r",
             "repo": "LS_COLORS",
-            "stars": 2277,
+            "stars": 2276,
             "topics": [
               "bash",
               "color",
@@ -658,7 +658,7 @@
             "open_issues": 2,
             "owner": "twolfson",
             "repo": "sexy-bash-prompt",
-            "stars": 1156,
+            "stars": 1155,
             "topics": []
           },
           "first_seen": "2026-08-28T16:45:55.999Z"
@@ -912,7 +912,7 @@
             "open_issues": 15,
             "owner": "avleen",
             "repo": "bashttpd",
-            "stars": 1553,
+            "stars": 1552,
             "topics": []
           },
           "first_seen": "2026-08-28T16:45:55.999Z"
@@ -1123,7 +1123,7 @@
             "open_issues": 42,
             "owner": "todotxt",
             "repo": "todo.txt-cli",
-            "stars": 6174,
+            "stars": 6173,
             "topics": [
               "cli",
               "linux",
@@ -1155,7 +1155,7 @@
             "open_issues": 35,
             "owner": "cfenollosa",
             "repo": "bashblog",
-            "stars": 1928,
+            "stars": 1927,
             "topics": []
           },
           "first_seen": "2026-08-28T16:45:55.999Z"
@@ -1401,7 +1401,7 @@
             "open_issues": 1139,
             "owner": "koalaman",
             "repo": "shellcheck",
-            "stars": 40006,
+            "stars": 40010,
             "topics": [
               "bash",
               "developer-tools",
@@ -1429,7 +1429,7 @@
             "open_issues": 93,
             "owner": "mvdan",
             "repo": "sh",
-            "stars": 9043,
+            "stars": 9046,
             "topics": [
               "bash",
               "beautify",
@@ -1504,7 +1504,7 @@
             "open_issues": 125,
             "owner": "bats-core",
             "repo": "bats-core",
-            "stars": 6251,
+            "stars": 6254,
             "topics": [
               "bash",
               "bats",
@@ -1620,7 +1620,7 @@
             "open_issues": 17,
             "owner": "kvz",
             "repo": "bash3boilerplate",
-            "stars": 2214,
+            "stars": 2215,
             "topics": []
           },
           "first_seen": "2026-08-28T16:45:55.999Z"
@@ -1867,8 +1867,8 @@
             "id": 686916383,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-08T08:51:54Z",
-            "open_issues": 0,
+            "last_commit": "2026-09-09T09:00:42Z",
+            "open_issues": 6,
             "owner": "TypedDevs",
             "repo": "bashunit",
             "stars": 424,
@@ -2155,7 +2155,7 @@
             "open_issues": 11,
             "owner": "attogram",
             "repo": "bash-screensavers",
-            "stars": 949,
+            "stars": 950,
             "topics": [
               "attogram-project",
               "bash",
@@ -2198,7 +2198,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T08:56:18.562Z",
+    "last_updated": "2026-09-09T09:02:11.004Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful Bash scripts and resources.",
@@ -2210,7 +2210,7 @@
       "open_issues": 8,
       "owner": "awesome-lists",
       "repo": "awesome-bash",
-      "stars": 10066,
+      "stars": 10065,
       "topics": [
         "awesome",
         "awesome-list",
