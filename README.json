@@ -19,7 +19,7 @@
             "open_issues": 62,
             "owner": "dylanaraps",
             "repo": "pure-bash-bible",
-            "stars": 41715,
+            "stars": 41714,
             "topics": [
               "bash",
               "bible",
@@ -110,11 +110,11 @@
             "id": 245166720,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-01T20:14:49Z",
-            "open_issues": 153,
+            "last_commit": "2026-10-03T09:36:37Z",
+            "open_issues": 148,
             "owner": "ajeetdsouza",
             "repo": "zoxide",
-            "stars": 39842,
+            "stars": 39847,
             "topics": [
               "autojump",
               "bash",
@@ -483,7 +483,7 @@
             "open_issues": 162,
             "owner": "ohmybash",
             "repo": "oh-my-bash",
-            "stars": 7723,
+            "stars": 7724,
             "topics": [
               "bash-configuration",
               "oh-my-bash",
@@ -1401,7 +1401,7 @@
             "open_issues": 1117,
             "owner": "koalaman",
             "repo": "shellcheck",
-            "stars": 40119,
+            "stars": 40120,
             "topics": [
               "bash",
               "developer-tools",
@@ -1867,7 +1867,7 @@
             "id": 686916383,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-02T20:09:35Z",
+            "last_commit": "2026-10-03T09:51:24Z",
             "open_issues": 0,
             "owner": "TypedDevs",
             "repo": "bashunit",
@@ -2198,7 +2198,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:38:38.371Z",
+    "last_updated": "2026-10-03T09:56:30.417Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful Bash scripts and resources.",
@@ -2210,7 +2210,7 @@
       "open_issues": 7,
       "owner": "awesome-lists",
       "repo": "awesome-bash",
-      "stars": 10118,
+      "stars": 10119,
       "topics": [
         "awesome",
         "awesome-list",
