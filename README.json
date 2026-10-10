@@ -19,7 +19,7 @@
             "open_issues": 62,
             "owner": "dylanaraps",
             "repo": "pure-bash-bible",
-            "stars": 41711,
+            "stars": 41712,
             "topics": [
               "bash",
               "bible",
@@ -53,7 +53,7 @@
             "open_issues": 30,
             "owner": "denysdovhan",
             "repo": "bash-handbook",
-            "stars": 6078,
+            "stars": 6079,
             "topics": [
               "bash",
               "book",
@@ -83,7 +83,7 @@
             "open_issues": 10,
             "owner": "anordal",
             "repo": "shellharden",
-            "stars": 4809,
+            "stars": 4808,
             "topics": [
               "lint",
               "policy",
@@ -114,7 +114,7 @@
             "open_issues": 148,
             "owner": "ajeetdsouza",
             "repo": "zoxide",
-            "stars": 39994,
+            "stars": 40006,
             "topics": [
               "autojump",
               "bash",
@@ -156,7 +156,7 @@
             "open_issues": 86,
             "owner": "akinomyoga",
             "repo": "ble.sh",
-            "stars": 4812,
+            "stars": 4814,
             "topics": [
               "auto-complete",
               "bash",
@@ -215,7 +215,7 @@
             "open_issues": 28,
             "owner": "huyng",
             "repo": "bashmarks",
-            "stars": 1973,
+            "stars": 1972,
             "topics": []
           },
           "first_seen": "2026-08-28T16:45:55.999Z"
@@ -381,7 +381,7 @@
             "id": 583759096,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-09T02:27:41Z",
+            "last_commit": "2026-10-09T17:06:45Z",
             "open_issues": 0,
             "owner": "jkool702",
             "repo": "forkrun",
@@ -511,7 +511,7 @@
             "open_issues": 37,
             "owner": "magicmonty",
             "repo": "bash-git-prompt",
-            "stars": 6936,
+            "stars": 6935,
             "topics": []
           },
           "first_seen": "2026-08-28T16:45:55.999Z"
@@ -563,7 +563,7 @@
             "open_issues": 56,
             "owner": "arialdomartini",
             "repo": "oh-my-git",
-            "stars": 3720,
+            "stars": 3721,
             "topics": []
           },
           "first_seen": "2026-08-28T16:45:55.999Z"
@@ -584,7 +584,7 @@
             "open_issues": 8,
             "owner": "trapd00r",
             "repo": "LS_COLORS",
-            "stars": 2278,
+            "stars": 2279,
             "topics": [
               "bash",
               "color",
@@ -812,7 +812,7 @@
             "open_issues": 15,
             "owner": "p8952",
             "repo": "bocker",
-            "stars": 12684,
+            "stars": 12683,
             "topics": []
           },
           "first_seen": "2026-08-28T16:45:55.999Z"
@@ -983,7 +983,7 @@
             "open_issues": 9,
             "owner": "cgsdev0",
             "repo": "bash-stack",
-            "stars": 921,
+            "stars": 920,
             "topics": [
               "bash",
               "htmx"
@@ -1119,11 +1119,11 @@
             "id": 144137,
             "language": "Shell",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-07T10:32:29Z",
-            "open_issues": 23,
+            "last_commit": "2026-10-10T06:18:53Z",
+            "open_issues": 14,
             "owner": "todotxt",
             "repo": "todo.txt-cli",
-            "stars": 6185,
+            "stars": 6188,
             "topics": [
               "cli",
               "linux",
@@ -1155,7 +1155,7 @@
             "open_issues": 35,
             "owner": "cfenollosa",
             "repo": "bashblog",
-            "stars": 1933,
+            "stars": 1931,
             "topics": []
           },
           "first_seen": "2026-08-28T16:45:55.999Z"
@@ -1277,7 +1277,7 @@
             "open_issues": 7,
             "owner": "Bash-it",
             "repo": "bash-it",
-            "stars": 15277,
+            "stars": 15276,
             "topics": [
               "bash",
               "bash-alias",
@@ -1309,7 +1309,7 @@
             "open_issues": 17,
             "owner": "andsens",
             "repo": "homeshick",
-            "stars": 2193,
+            "stars": 2192,
             "topics": [
               "bash",
               "dotfile-manager",
@@ -1398,7 +1398,7 @@
             "language": "Haskell",
             "license": "GPL-3.0",
             "last_commit": "2026-10-09T02:05:50Z",
-            "open_issues": 1087,
+            "open_issues": 1089,
             "owner": "koalaman",
             "repo": "shellcheck",
             "stars": 40152,
@@ -1429,7 +1429,7 @@
             "open_issues": 88,
             "owner": "mvdan",
             "repo": "sh",
-            "stars": 9117,
+            "stars": 9119,
             "topics": [
               "bash",
               "beautify",
@@ -1462,7 +1462,7 @@
             "open_issues": 8,
             "owner": "HariSekhon",
             "repo": "DevOps-Bash-tools",
-            "stars": 8427,
+            "stars": 8428,
             "topics": [
               "api",
               "aws",
@@ -1499,9 +1499,9 @@
             "homepage": "https://bats-core.readthedocs.io/",
             "id": 104130720,
             "language": "Shell",
-            "license": "NOASSERTION",
-            "last_commit": "2026-10-05T19:57:15Z",
-            "open_issues": 125,
+            "license": "MIT",
+            "last_commit": "2026-10-09T19:18:44Z",
+            "open_issues": 123,
             "owner": "bats-core",
             "repo": "bats-core",
             "stars": 6310,
@@ -1531,7 +1531,7 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2023-12-15T14:25:19Z",
-            "open_issues": 36,
+            "open_issues": 35,
             "owner": "niieani",
             "repo": "bash-oo-framework",
             "stars": 5622,
@@ -1566,7 +1566,7 @@
             "open_issues": 10,
             "owner": "anordal",
             "repo": "shellharden",
-            "stars": 4809,
+            "stars": 4808,
             "topics": [
               "lint",
               "policy",
@@ -1591,7 +1591,7 @@
             "open_issues": 1,
             "owner": "bashly-framework",
             "repo": "bashly",
-            "stars": 2460,
+            "stars": 2459,
             "topics": [
               "bash",
               "bash-scripting",
@@ -1867,7 +1867,7 @@
             "id": 686916383,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-09T11:18:43Z",
+            "last_commit": "2026-10-10T10:35:22Z",
             "open_issues": 0,
             "owner": "TypedDevs",
             "repo": "bashunit",
@@ -1934,7 +1934,7 @@
             "open_issues": 12,
             "owner": "cloudflare",
             "repo": "semver_bash",
-            "stars": 270,
+            "stars": 269,
             "topics": []
           },
           "first_seen": "2026-08-28T16:45:55.999Z"
@@ -2198,7 +2198,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T11:24:39.290Z",
+    "last_updated": "2026-10-10T10:42:10.612Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful Bash scripts and resources.",
