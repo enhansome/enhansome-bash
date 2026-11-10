@@ -19,7 +19,7 @@
             "open_issues": 62,
             "owner": "dylanaraps",
             "repo": "pure-bash-bible",
-            "stars": 41716,
+            "stars": 41714,
             "topics": [
               "bash",
               "bible",
@@ -83,7 +83,7 @@
             "open_issues": 10,
             "owner": "anordal",
             "repo": "shellharden",
-            "stars": 4803,
+            "stars": 4804,
             "topics": [
               "lint",
               "policy",
@@ -114,7 +114,7 @@
             "open_issues": 156,
             "owner": "ajeetdsouza",
             "repo": "zoxide",
-            "stars": 40527,
+            "stars": 40538,
             "topics": [
               "autojump",
               "bash",
@@ -156,7 +156,7 @@
             "open_issues": 92,
             "owner": "akinomyoga",
             "repo": "ble.sh",
-            "stars": 4901,
+            "stars": 4905,
             "topics": [
               "auto-complete",
               "bash",
@@ -350,6 +350,40 @@
         },
         {
           "node_type": "item",
+          "title": "forkrun",
+          "description": "A pure-bash tool for running code in parallel. Similar in syntax and speed to , but with more features and native Bash function support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "NUMA-Aware Contention-Free Dynamically-Auto-Tuning Bash-Native Streaming Parallelization Engine",
+            "homepage": null,
+            "id": 583759096,
+            "language": "Shell",
+            "license": "MIT",
+            "last_commit": "2026-11-09T03:12:00Z",
+            "open_issues": 1,
+            "owner": "jkool702",
+            "repo": "forkrun",
+            "stars": 366,
+            "topics": [
+              "bash",
+              "coproc",
+              "fast",
+              "forks",
+              "hpc",
+              "lock-free",
+              "lock-free-concurrency",
+              "loops",
+              "parallel",
+              "parallel-computing",
+              "parallelize",
+              "persistent-workers"
+            ]
+          },
+          "first_seen": "2026-08-28T16:45:55.999Z"
+        },
+        {
+          "node_type": "item",
           "title": "commacd",
           "description": "A faster way to move around in Bash.",
           "children": [],
@@ -366,40 +400,6 @@
             "repo": "commacd",
             "stars": 365,
             "topics": []
-          },
-          "first_seen": "2026-08-28T16:45:55.999Z"
-        },
-        {
-          "node_type": "item",
-          "title": "forkrun",
-          "description": "A pure-bash tool for running code in parallel. Similar in syntax and speed to , but with more features and native Bash function support.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "NUMA-Aware Contention-Free Dynamically-Auto-Tuning Bash-Native Streaming Parallelization Engine",
-            "homepage": null,
-            "id": 583759096,
-            "language": "Shell",
-            "license": "MIT",
-            "last_commit": "2026-11-09T03:12:00Z",
-            "open_issues": 1,
-            "owner": "jkool702",
-            "repo": "forkrun",
-            "stars": 365,
-            "topics": [
-              "bash",
-              "coproc",
-              "fast",
-              "forks",
-              "hpc",
-              "lock-free",
-              "lock-free-concurrency",
-              "loops",
-              "parallel",
-              "parallel-computing",
-              "parallelize",
-              "persistent-workers"
-            ]
           },
           "first_seen": "2026-08-28T16:45:55.999Z"
         },
@@ -483,7 +483,7 @@
             "open_issues": 163,
             "owner": "ohmybash",
             "repo": "oh-my-bash",
-            "stars": 7765,
+            "stars": 7768,
             "topics": [
               "bash-configuration",
               "oh-my-bash",
@@ -511,7 +511,7 @@
             "open_issues": 36,
             "owner": "magicmonty",
             "repo": "bash-git-prompt",
-            "stars": 6937,
+            "stars": 6936,
             "topics": []
           },
           "first_seen": "2026-08-28T16:45:55.999Z"
@@ -1277,7 +1277,7 @@
             "open_issues": 5,
             "owner": "Bash-it",
             "repo": "bash-it",
-            "stars": 15296,
+            "stars": 15300,
             "topics": [
               "bash",
               "bash-alias",
@@ -1398,10 +1398,10 @@
             "language": "Haskell",
             "license": "GPL-3.0",
             "last_commit": "2026-11-09T01:29:53Z",
-            "open_issues": 1073,
+            "open_issues": 1075,
             "owner": "koalaman",
             "repo": "shellcheck",
-            "stars": 40304,
+            "stars": 40314,
             "topics": [
               "bash",
               "developer-tools",
@@ -1425,11 +1425,11 @@
             "id": 49766020,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-09T12:55:46Z",
-            "open_issues": 69,
+            "last_commit": "2026-11-09T21:03:37Z",
+            "open_issues": 67,
             "owner": "mvdan",
             "repo": "sh",
-            "stars": 9187,
+            "stars": 9188,
             "topics": [
               "bash",
               "beautify",
@@ -1458,7 +1458,7 @@
             "id": 49816796,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-11-06T03:51:13Z",
+            "last_commit": "2026-11-09T16:23:15Z",
             "open_issues": 8,
             "owner": "HariSekhon",
             "repo": "DevOps-Bash-tools",
@@ -1500,11 +1500,11 @@
             "id": 104130720,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-11-07T23:11:36Z",
-            "open_issues": 126,
+            "last_commit": "2026-11-09T19:03:19Z",
+            "open_issues": 128,
             "owner": "bats-core",
             "repo": "bats-core",
-            "stars": 6346,
+            "stars": 6349,
             "topics": [
               "bash",
               "bats",
@@ -1566,7 +1566,7 @@
             "open_issues": 10,
             "owner": "anordal",
             "repo": "shellharden",
-            "stars": 4803,
+            "stars": 4804,
             "topics": [
               "lint",
               "policy",
@@ -1587,7 +1587,7 @@
             "id": 222777351,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-09-27T18:40:06Z",
+            "last_commit": "2026-11-10T08:24:22Z",
             "open_issues": 1,
             "owner": "bashly-framework",
             "repo": "bashly",
@@ -1687,7 +1687,7 @@
             "open_issues": 8,
             "owner": "modernish",
             "repo": "modernish",
-            "stars": 949,
+            "stars": 950,
             "topics": [
               "ash",
               "bash",
@@ -1727,7 +1727,7 @@
             "open_issues": 2,
             "owner": "fidian",
             "repo": "ansi",
-            "stars": 851,
+            "stars": 852,
             "topics": []
           },
           "first_seen": "2026-08-28T16:45:55.999Z"
@@ -1867,7 +1867,7 @@
             "id": 686916383,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-11-09T12:48:55Z",
+            "last_commit": "2026-11-10T12:35:47Z",
             "open_issues": 0,
             "owner": "TypedDevs",
             "repo": "bashunit",
@@ -2198,7 +2198,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T13:05:47.340Z",
+    "last_updated": "2026-11-10T12:48:20.641Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of delightful Bash scripts and resources.",
